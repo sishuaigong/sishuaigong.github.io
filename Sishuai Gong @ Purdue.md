@@ -37,7 +37,7 @@ Ph.D. Candidate
     <h4>Conference</h4>
     <ul>
         <li>
-            <b>Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor</b>
+            Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor
             <br>
             <u>Sishuai Gong</u>, Dinglan Peng, Deniz Altınbüken, Pedro Fonseca, Petros Maniatis.
             <br>
@@ -47,7 +47,7 @@ Ph.D. Candidate
         </li>
         <br>
         <li>
-            <b>KIT: Testing OS-level Virtualization for Functional Interference Bugs</b>
+            KIT: Testing OS-level Virtualization for Functional Interference Bugs
             <br>
             Congyu Liu, <u>Sishuai Gong</u>, Pedro Fonseca.
             <br>
@@ -57,7 +57,7 @@ Ph.D. Candidate
         </li>
         <br>
         <li>
-            <b>Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis</b>
+            Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis
             <br>
             <u>Sishuai Gong</u>, Deniz Altınbüken, Pedro Fonseca, Petros Maniatis.
             <br>
@@ -67,7 +67,7 @@ Ph.D. Candidate
         </li>
         <br>
         <li>
-            <b>On-Demand-Fork: A Microsecond Fork for Memory-Intensive and Latency-Sensitive Applications</b>
+            On-Demand-Fork: A Microsecond Fork for Memory-Intensive and Latency-Sensitive Applications
             <br>
             Kaiyang Zhao, <u>Sishuai Gong</u>, Pedro Fonseca.
             <br>
@@ -77,7 +77,7 @@ Ph.D. Candidate
         </li>
         <br>
         <li>
-            <b>InspectorGadget: A Framework for Inferring TCP Congestion Control Algorithms and Protocol Configurations</b>
+            InspectorGadget: A Framework for Inferring TCP Congestion Control Algorithms and Protocol Configurations
             <br>
             <u>Sishuai Gong</u>, Usama Naseer, Theophilus Benson.
             <br>
@@ -89,7 +89,7 @@ Ph.D. Candidate
     <h4>Book</h4>
     <ul>
          <li>
-            <b>Machine Learning Techniques for Cybersecurity</b>
+            Machine Learning Techniques for Cybersecurity
             <br>
             Elisa Bertino, Sonam Bhardwaj, Fabrizio Cicala, <u>Sishuai Gong</u>, Imtiaz Karim, Charalampos Katsis, Adrian Shuai Li, Ashraf Y. Mahgoub.
             <br>
