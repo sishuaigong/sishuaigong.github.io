@@ -20,7 +20,6 @@ Ph.D. Candidate
 </div>
 
 
-
 <div class="introduction">
     <h3>About Me</h3>
     <font size="4">
@@ -31,11 +30,22 @@ Ph.D. Candidate
 </div>
 
 
+
 <div>
     <h3>Publications</h3>
     <font size="4">
     <h4>Conference</h4>
     <ul>
+        <li>
+            VeriSMo: A Verified Security Module for Confidential VMs
+            <br>
+            In the 18th USENIX Symposium on Operating Systems Design and Implementation (<b>OSDI'24</b>)
+            <br>
+            Ziqiao Zhou, Anjali, Weiteng Chen, <u>Sishuai Gong</u>, Chris Hawblitzel, Weidong Cui.
+            <br>
+            (To appear)
+        </li>
+        <br>
         <li>
             Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor
             <br>
