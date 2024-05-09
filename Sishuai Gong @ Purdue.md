@@ -34,6 +34,7 @@ Ph.D. Candidate
 <div>
     <h3>Publications</h3>
     <font size="4">
+    <h4>Conference</h4>
     <ul>
         <li>
             <b>Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor</b>
@@ -85,8 +86,21 @@ Ph.D. Candidate
             [<a href="pdf/tma2020-ig.pdf">pdf</a>]
         </li>
     </ul>
+    <h4>Book</h4>
+    <ul>
+         <li>
+            <b>Machine Learning Techniques for Cybersecurity</b>
+            <br>
+            Elisa Bertino, Sonam Bhardwaj, Fabrizio Cicala, <u>Sishuai Gong</u>, Imtiaz Karim, Charalampos Katsis, Adrian Shuai Li, Ashraf Y. Mahgoub.
+            <br>
+            In the book series: Synthesis Lectures on Information Security, Privacy, and Trust, Sprinter Nature, 2023
+            <br>
+            [<a href="https://link.springer.com/book/10.1007/978-3-031-28259-1">link</a>]
+        </li>
+    </ul>
     </font>
 </div>
+
 
 
 <div>
@@ -131,4 +145,4 @@ Ph.D. Candidate
 
 
 
-Last update: 2024-03-17
+Last update: 2024-05-09
