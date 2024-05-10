@@ -23,9 +23,9 @@ Ph.D. Candidate
 <div class="introduction">
     <h3>About Me</h3>
     <font size="4">
-    I am a 5th year PhD student at the Department of Computer Science, Purdue Univeristy. I am fortunate to be advised by Professor <a href="https://www.cs.purdue.edu/homes/pfonseca/" style="white-space: nowrap;">Pedro Fonseca</a> and work with other pepole in the Reliable and Secure Systems Lab. Before joining Purdue, I obtained my B.S. degree in Computer Science from <a href="https://en.ustc.edu.cn/" style="white-space: nowrap;">University of Science and Technology of China</a> in 2019.
+    I am a 5th year PhD student at the Department of Computer Science, Purdue Univeristy. I am fortunate to be advised by Professor <a href="https://www.cs.purdue.edu/homes/pfonseca/" style="white-space: nowrap;">Pedro Fonseca</a> and work with other pepole in the Reliable and Secure Systems Lab. Before joining Purdue, I obtained my B.S. degree in Computer Science from University of Science and Technology of China in 2019.
     <br>
-    <br>I am broadly interested in operating system research. My recent research focuses on improving the reliability and security of real-world kernels, with particular interests in kernel concurrency testing.
+    <br>I am broadly interested in operating system research. My recent research focuses on improving the reliability and security of real-world kernels, with particular interests in kernel testing.
     </font>
 </div>
 
