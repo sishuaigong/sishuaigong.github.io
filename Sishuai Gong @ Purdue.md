@@ -23,11 +23,12 @@ Ph.D. Candidate
 <div class="introduction">
     <h3>About Me</h3>
     <font size="4">
-    I am a 5th year PhD student at the Department of Computer Science, Purdue Univeristy. I am fortunate to be advised by Professor <a href="https://www.cs.purdue.edu/homes/pfonseca/" style="white-space: nowrap;">Pedro Fonseca</a> and work with other pepole in the Reliable and Secure Systems Lab. Before joining Purdue, I obtained my B.S. degree in Computer Science from University of Science and Technology of China in 2019.
+    I am a final year PhD student at the Department of Computer Science, Purdue Univeristy. I am advised by <a href="https://www.cs.purdue.edu/homes/pfonseca/" style="white-space: nowrap;">Pedro Fonseca</a> and work with other pepole in the Reliable and Secure Systems Lab. Before joining Purdue, I obtained my B.S. degree in Computer Science from University of Science and Technology of China in 2019.
     <br>
-    <br>I am broadly interested in operating system research. My recent research focuses on improving the reliability and security of real-world kernels, with particular interests in kernel testing.
+    <br>I am broadly interested in operating system research, with a particular focus on system reliability and security.
     </font>
 </div>
+
 
 
 <div>
@@ -112,7 +113,6 @@ Ph.D. Candidate
 
 
 
-
 <div>
     <h3>Honors & Awards & Services</h3>
     <font size="4">
@@ -121,7 +121,7 @@ Ph.D. Candidate
         Google Cloud Research Innovator, 2024
     </li>
     <li>
-        Bilsland Dissertation Fellowship, 2024 - 2025
+        Bilsland Dissertation Fellowship at Purdue, 2024 - 2025
     </li>
     <li>
         Reviewer (ERC) for USENIX ATC, 2024
@@ -142,12 +142,16 @@ Ph.D. Candidate
         Cryptography, Security, and Privacy Group
         <br>
         Research Intern (May 2022 - July 2022)
+        <br>
+        Mentor: Ziqiao Zhou and Weidong Cui
     </li>
     <br>
     <li>
         Brown University, Providence, RI.
         <br>
         Research Intern (August 2018 - October 2018)
+        <br>
+        Advisor: Theophilus Benson
     </li>
     </ul>
     </font>
