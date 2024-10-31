@@ -30,7 +30,6 @@ Ph.D. Candidate
 </div>
 
 
-
 <div>
     <h3>Publications</h3>
     <font size="4">
@@ -43,7 +42,7 @@ Ph.D. Candidate
             <br>
             Ziqiao Zhou, Anjali, Weiteng Chen, <u>Sishuai Gong</u>, Chris Hawblitzel, Weidong Cui.
             <br>
-            (To appear)
+            [<a href="pdf/osdi24-verismo.pdf">pdf</a>]
         </li>
         <br>
         <li>
@@ -113,6 +112,7 @@ Ph.D. Candidate
 
 
 
+
 <div>
     <h3>Honors & Awards & Services</h3>
     <font size="4">
@@ -155,4 +155,4 @@ Ph.D. Candidate
 
 
 
-Last update: 2024-05-09
+Last update: 2024-10-31
