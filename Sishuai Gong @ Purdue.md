@@ -12,12 +12,13 @@ Ph.D. Candidate
 <br>Department of Computer Science
 <br>Purdue University
 <br>
-<br>Email: sishuai [at] purdue [dot] edu
-<br><a href="pdf/sishuai.pdf">CV</a>
+<br><b>Email: sishuai [at] purdue [dot] edu</b>
+<br><b>CV:</b> <a href="pdf/sishuai.pdf">pdf</a>
 </font>
 </p>
 </div>
 </div>
+
 
 
 <div class="introduction">
@@ -30,7 +31,6 @@ Ph.D. Candidate
 </div>
 
 
-
 <div>
     <h3>Publications</h3>
     <font size="4">
@@ -39,9 +39,9 @@ Ph.D. Candidate
         <li>
             VeriSMo: A Verified Security Module for Confidential VMs
             <br>
-            In the 18th USENIX Symposium on Operating Systems Design and Implementation (<b>OSDI'24</b>)
-            <br>
             Ziqiao Zhou, Anjali, Weiteng Chen, <u>Sishuai Gong</u>, Chris Hawblitzel, Weidong Cui.
+            <br>
+            In the 18th USENIX Symposium on Operating Systems Design and Implementation (<b>OSDI'24</b>)
             <br>
             [<a href="pdf/osdi24-verismo.pdf">pdf</a>]
         </li>
@@ -113,6 +113,7 @@ Ph.D. Candidate
 
 
 
+
 <div>
     <h3>Honors & Awards & Services</h3>
     <font size="4">
@@ -159,4 +160,4 @@ Ph.D. Candidate
 
 
 
-Last update: 2024-12-02
+Last update: 2024-12-30
